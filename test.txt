@@ -1,27 +1,11 @@
 Real value = 12 calculated value = [ 12.23909967]
-Real value = 12 calculated value = [ 10.16597294]
-Real value = 12 calculated value = [ 9.46813305]
-Real value = 12 calculated value = [ 12.31256108]
-Real value = 12 calculated value = [ 11.0604281]
-Real value = 12 calculated value = [ 10.19684328]
-Real value = 12 calculated value = [ 12.47139515]
-Real value = 12 calculated value = [ 12.37378883]
-Real value = 13 calculated value = [ 15.59143165]
-Real value = 13 calculated value = [ 15.58201647]
-Real value = 15 calculated value = [ 16.84847306]
-Real value = 15 calculated value = [ 14.99555868]
-Real value = 15 calculated value = [ 15.95239]
-Real value = 15 calculated value = [ 11.37195683]
-Real value = 15 calculated value = [ 13.53341179]
-Real value = 16 calculated value = [ 16.10202032]
-Real value = 16 calculated value = [ 15.05103381]
-Real value = 16 calculated value = [ 15.65199375]
-Real value = 16 calculated value = [ 20.0310886]
-Real value = 15 calculated value = [ 18.49286028]
-Real value = 16 calculated value = [ 17.17779619]
-Real value = 16 calculated value = [ 19.82942301]
-Real value = 16 calculated value = [ 18.12121952]
-Real value = 16 calculated value = [ 15.95326901]
+fasdfsdf
+saf
+asdf
+as
+f
+saf
+ads
 Real value = 16 calculated value = [ 13.4125855]
 Real value = 16 calculated value = [ 14.11109446]
 Real value = 16 calculated value = [ 13.32224877]
